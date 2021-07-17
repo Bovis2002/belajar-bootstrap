@@ -1,0 +1,5 @@
+System analyst merupakan profesi di bidang teknologi informasi yang fokus pada aktivitas penelitian, perencanaan, pengkoordinasian, juga pemilihan perangkat lunak dan sistem untuk mengakomodasi kebutuhan institusi. Bidang pekerjaan ini memiliki peranan kunci dalam upaya mengembangankan suatu sistem.
+
+Misalnya, sebuah institusi perbankan ingin mengembangkan layanan digital, maka system analyst memegang tanggung jawab untuk menganalisis sistem operasi yang tepat, melakukan studi kelayakan dari desain sistemnya, dan pengembangannya lebih lanjut. Karenanya kamu dituntut untuk punya kemampuan analisis yang kuat supaya bisa mengidentifikasi suatu permasalahan di institusi kemudian merancang solusi terbaik dengan memperhatikan potensi juga keterbatasan dari teknologi informasi.
+
+Kamu juga wajib punya pemahaman yang komprehensif mengenai bahasa pemrograman, sistem operasi, aplikasi dan perangkat database, juga perangkat keras agar memudahkanmu mengerjakan tugas-tugas kantor. Seorang system analyst biasanya akan bekerja dalam sebuah tim system integrator
